@@ -1,2 +1,0 @@
-# PlayGroundForRedux
-Created with CodeSandbox
